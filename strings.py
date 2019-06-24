@@ -18,5 +18,5 @@ def task1():
     print("239" < "30" and 239 > 30)
     print("239" > "30" and 239 < 30)
     print("239" > "30" and 239 > 30)       
-string_test()    
- 
+# string_test()    
+print("123" + "42") 
