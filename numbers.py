@@ -3,6 +3,9 @@ Created on 21 июн. 2019 г.
 
 @author: m.elagina
 '''
+print(111//10)
+
+
 print(11111*1111111)
 
 print(41//8)
